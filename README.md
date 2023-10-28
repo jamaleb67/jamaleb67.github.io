@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Jamal Brooks
 #### Signal Leader @ US Army | IT Professional | People First, Winning Matters
-![Signal Leader @ US Army | IT Professional | People First, Winning Matters](https://github.com/jamaleb67/jamaleb67.github.io/blob/master/GITHUB%20BANNER.png)
+![Signal Leader @ US Army | IT Professional | People First, Winning Matters](https://github.com/jamaleb67/jamaleb67.github.io/blob/master/GITHUB%20BANNER.jpg)
 
 I am driven to create positive impacts that help people. Ever since I first enlisted in the army, I have seen and experienced the pivotal impact leaders can have at every level of an organization, some phenomenal and some detrimental. Authentic leadership is a never-ending process that I am passionately engaged in developing in myself and those around me. I believe in the power of leadership to transform and improve the lives of others by empowering the people around you.
 
