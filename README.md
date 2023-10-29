@@ -11,7 +11,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / PYTHON
 - 🔭 I’m currently working on this page and 688 course 
 - 🌱 I’m currently learning Machine learning, AI business and data applications 
 - 💬 Ask me about Anything, here to help! 
-- 📫 How to reach me: Jamalb67@gmail.com 
+- 📫 How to reach me: DM
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jamaleb67)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jamal_brooks/)  
