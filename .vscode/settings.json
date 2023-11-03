@@ -4,5 +4,6 @@
     },
     "github.copilot.advanced": {
         
-    }
+    },
+    "python.analysis.autoImportCompletions": false
 }
