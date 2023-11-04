@@ -5,5 +5,5 @@
     "github.copilot.advanced": {
         
     },
-    "python.analysis.autoImportCompletions": false
+    "python.analysis.autoImportCompletions": true
 }
