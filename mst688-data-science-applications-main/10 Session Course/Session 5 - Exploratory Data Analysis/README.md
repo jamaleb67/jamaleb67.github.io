@@ -60,4 +60,19 @@ All other Top ten countries combined would not equal the U.S. GDP. The U.S. GDP 
 
 ### 2022 GDP for germany, south korea, UK, US, Mexico, japan and india
 
- I used pandas and seaborn libraries to analyse and visualize the Gross Domestic Product (GDP) for Seven Countries
+ I used pandas and seaborn libraries to analyse and visualize the Gross Domestic Product (GDP) for Seven Countries. The data was collected from the World Bank and the International Monetary Fund (IMF). The larger dataset was filtered and the filtered data is stored in the Countries dataframe.
+
+The Countries dataframe is sorted on 2022 column and than again stored in a new dataframe.  
+
+The selected countries are Germany, South Korea, United Kingdom, United States, Mexico, Japan and India. 
+
+The data is visualized using a bar chart. The bar chart shows the GDP for the selected countries in 2022.
+
+## 📈 Gross Domestic product average for 2019 - 2020 <a class='anchor' id='19-20'>
++ Germany, South Korea UK, US, Mexico, Japan and India
+
+
+
+The GDP for the selected countries is visualized using a bar chart. The bar chart shows the GDP for the selected countries in 2019 - 2020.
+
+The code uses a familar dataframe 'countries' and uses the melt function. Country is the id_var and the years are the value_vars. The years are renamed to 'year' and the GDP is renamed to 'gdp'. 
