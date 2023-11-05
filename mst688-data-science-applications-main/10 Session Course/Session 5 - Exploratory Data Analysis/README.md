@@ -25,7 +25,7 @@ APIs:
 - [Google API](https://console.cloud.google.com/apis/library/youtube.googleapis.com)
 
 
-# Table of contents <a class='anchor' id='top'>
+# Table of contents <a class='anchor' id='top'></a>
 - [Introduction](#Introduction)
 - [Import libraries](#import)
 - [Load data](#load_data)
@@ -36,9 +36,9 @@ APIs:
 - [Youtube API](#YouTube)
 - [Conclusion](#Conclusion)
 
-# Introduction  <a class='anchor' id='Introduction'>
+# Introduction  <a class='anchor' id='Introduction'></a>
 
-# Import libraries <a class='anchor' id='import'>
+# Import libraries <a class='anchor' id='import'></a>
 
 
 <p align="center">
@@ -46,7 +46,9 @@ APIs:
   GDP Analysis from 2019 - 2020<a class='anchor' id='gdpproject'></span></u></b><br>
 </p>
 
-### Load data <a class='anchor' id='load_data'>
+### Load data process <a class='anchor' id='load_data'></a>
+
+The data was sourced from the World Bank and the International Monetary Fund (IMF).
 
 In load data a CSV file named "GDP by Country 1999-2022.csv" was put into a pandas dataframe named "data". It then removed any double quotes and commas from the data. Finally, it sets the display options to show all columns and rows, and prints a summary of the data using the describe() method.
 
@@ -68,7 +70,7 @@ The selected countries are Germany, South Korea, United Kingdom, United States, 
 
 The data is visualized using a bar chart. The bar chart shows the GDP for the selected countries in 2022.
 
-## 📈 Gross Domestic product average for 2019 - 2020 <a class='anchor' id='19-20'>
+## 📈 Gross Domestic product average for 2019 - 2020 <a class='anchor' id='19-20'></a>
 + Germany, South Korea UK, US, Mexico, Japan and India
 
 
