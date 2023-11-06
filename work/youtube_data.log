@@ -1,0 +1,14 @@
+2023-11-06 10:48:40,329 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-11-06 10:58:21,780 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-11-06 11:02:28,589 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-11-06 11:03:34,941 - INFO - file_cache is only supported with oauth2client<4.0.0
+2023-11-06 11:03:35,343 - INFO - Processing channel: Cocomelon - Nursery Rhymes
+2023-11-06 11:03:35,344 - ERROR - Error processing channel Cocomelon - Nursery Rhymes: name 'top_video_ids' is not defined
+2023-11-06 11:03:35,344 - INFO - Processing channel: MrBeast
+2023-11-06 11:03:35,344 - ERROR - Error processing channel MrBeast: name 'top_video_ids' is not defined
+2023-11-06 11:03:35,344 - INFO - Processing channel: BB Ki Vines
+2023-11-06 11:03:35,344 - ERROR - Error processing channel BB Ki Vines: name 'top_video_ids' is not defined
+2023-11-06 11:03:35,344 - INFO - Processing channel: Amit Bhadana
+2023-11-06 11:03:35,345 - ERROR - Error processing channel Amit Bhadana: name 'top_video_ids' is not defined
+2023-11-06 11:03:35,345 - INFO - Processing channel: HikakinTV
+2023-11-06 11:03:35,345 - ERROR - Error processing channel HikakinTV: name 'top_video_ids' is not defined
