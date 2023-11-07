@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "jamaleb67",
+			"path": "../jamaleb67"
+		}
+	],
+	"settings": {
+		"github.copilot.enable": {
+			"markdown": "true"
+		},
+		"github.copilot.advanced": {}
+	}
+}
