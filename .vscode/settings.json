@@ -5,6 +5,6 @@
     "github.copilot.advanced": {
         
     },
-    "python.analysis.autoImportCompletions": true,
+    "python.analysis.autoImportCompletions": false,
     "python.analysis.typeCheckingMode": "basic"
 }
