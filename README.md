@@ -16,14 +16,14 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
-git remote add origin https://code.pnnl.gov/collective-intelligence/mst-691-data-science-tools-and-techniques-10-wks.git
+git remote add origin https://code.pnnl.gov/
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
-- [ ] [Set up project integrations](https://code.pnnl.gov/collective-intelligence/mst-691-data-science-tools-and-techniques-10-wks/-/settings/integrations)
+- [ ] [Set up project integrations]
 
 ## Collaborate with your team
 
